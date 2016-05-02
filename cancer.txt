@@ -1,0 +1,11 @@
+http://www.news.gatech.edu/2014/02/15/researchers-hijack-cancer-migration-mechanism-%E2%80%9Cmove%E2%80%9D-brain-tumors
+
+Here is what I learned about using nanofibers to treat cancer:
+
+-glioblastoma cancers are found in the brain
+-they travel to different parts of the brain via nerves and blood vessels
+-many times they are in places of the brain that are too risky to operate on
+-the new technology that is being tested is nanofibers that the tumor can travel along to a place 
+that is more easily operable or can be detroyed.
+-currently it is being tested on animals
+-there are no chemicals or radiation used
