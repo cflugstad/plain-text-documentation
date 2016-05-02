@@ -1,11 +1,5 @@
-http://www.news.gatech.edu/2014/02/15/researchers-hijack-cancer-migration-mechanism-%E2%80%9Cmove%E2%80%9D-brain-tumors
+There is a new technology being developed that will help treat glioblastoma cancer tumors. It considers the tumor's own nature and uses that to reduce the risk of it spreading to more dangerous locations in the brain. Nanofibers are used to move the tumor to another location. It could provide a long-term treatment of this cancer that does not involve invasive chemicals or radiation.
 
-Here is what I learned about using nanofibers to treat cancer:
+Glioblastoma cancer has a unique way of spreading through the body. They form in the brain, often in places that are difficult to operate on. They then can travel to different sections of the brain. They do this by following and travelling along nerves and blood vessels. In order to combat these tumors,  researchers at Georgia Tech developed nanofibers that mimic the fibers that the tumors normally follow when they travel. The path that the nanofibers trick the tumor into taking has less resistance than normal nerves. This path will be the ideal one to take for the tumor, as it requires less energy to take it. This allows doctors to guide the tumors away from important parts of the brain and move them into sections that are easier to operate on. This allows the tumor to be removed or destroyed slowly. This method also allows for controlling the tumor so it does not grow out of control. Patients could potentially live with the tumor without having to have it removed. The nanofiber technology also removes any need for harmful chemicals or radiation treatment. They have tested it on rats, and those who received the nanofiber treatment had significantly smaller tumors because of it.
 
--glioblastoma cancers are found in the brain
--they travel to different parts of the brain via nerves and blood vessels
--many times they are in places of the brain that are too risky to operate on
--the new technology that is being tested is nanofibers that the tumor can travel along to a place 
-that is more easily operable or can be detroyed.
--currently it is being tested on animals
--there are no chemicals or radiation used
+In conclusion, the nanofiber technology has the potential to dramatically reduce brain tumors and allow for them to be removed even when they were originally in locations that were too dangerous to operate on. Another advantage of this technology is that it took a different approach to the same old problem. It used research to learn more about the problem itself and took advantage of the properties that this specific cancer possessed. I believe this method is a great one to use in the future.
